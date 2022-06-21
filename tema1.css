@@ -1,0 +1,36 @@
+p{
+    position:left;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(255, 220, 104);
+    text-decoration: dashed;
+   
+
+}
+
+.box{
+    background-color:rgba(182, 159, 159, 0.723);
+    width: 230px;
+    border-radius: 20%;
+    padding: 50px;
+    margin: 20px;
+
+}
+a{
+    color:rgb(36, 28, 28);
+    text-align: center;
+}
+a:hover:active {
+    color: rgb(203, 157, 97);
+}
+#code{
+    font-size: 1em;
+    background-color:peru;
+    border-radius: 6px;
+    height: 100px;
+    width: 100px;
+    margin:15px;
+    text-decoration: underline;
+    text-decoration-color:burlywood;
+    box-shadow: 10px 10px rgba(250, 166, 10, 0.466) ;
+    float:right;
+}
